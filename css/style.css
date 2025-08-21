@@ -1,0 +1,64 @@
+.cabecera {
+  background-color: #e5e5e5;
+  padding-top: 20px;
+  padding-bottom: 15px;
+  text-align: center;
+}
+
+.foto {
+  border-radius: 50%;
+  height: 150px;
+}
+
+.titulo {
+  background-color: #c4c4c4;
+  color: #005677;
+  font-size: 20px;
+  letter-spacing: 1em;
+  padding: 0.05%;
+  text-align: center;
+}
+
+.subtitulo {
+  margin-top: 150px;
+}
+
+ul {
+  font-size: 20px;
+  list-style-type: none;
+}
+
+h2 {
+  background-color: #c4c4c4;
+  color: #005677;
+  font-size: 25px;
+  letter-spacing: 0.3em;
+  padding: 10px;
+}
+
+.lista {
+  list-style-type: disc;
+}
+
+.item {
+  display: flex;
+}
+
+.sub-item {
+  padding-left: 7px;
+}
+
+a {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+footer {
+  background-color: #005677;
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
+  margin-top: 130px;
+  padding: 10px;
+  text-align: center;
+}
